@@ -2,7 +2,7 @@
 some modules i made for [focabot](https://github.com/FocaBot/FocaBot)
 
 ## twitterExpand / tumblrExpand
-automatically posts additional images from twitter statuses/tumblr posts
+automatically posts additional images from twitter statuses/tumblr posts  
 messages starting with ! won't be expanded
 
 ## scryfall
