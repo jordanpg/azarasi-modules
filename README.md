@@ -1,8 +1,9 @@
 # azarasi-modules
-some modules i made for focabot
+some modules i made for [focabot](https://github.com/FocaBot/FocaBot)
 
-## twitterExpand
-automatically posts additional images from twitter statuses
+## twitterExpand / tumblrExpand
+automatically posts additional images from twitter statuses/tumblr posts
+messages starting with ! won't be expanded
 
 ## scryfall
 access the scryfall API in chat 
