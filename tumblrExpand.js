@@ -7,7 +7,7 @@ class TumblrModule extends BotModule
 {
     postMedia(msg, obj, slc=1)
     {
-        if(!obj)
+        if(!obj || !obj['posts'][0]['photos'])
             return;
 
         var p = obj['posts'][0]['photos'].slice(slc);
